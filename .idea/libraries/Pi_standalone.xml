@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pi standalone">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Pi standalone/out/artifacts/Pi_standalone_jar/Pi standalone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

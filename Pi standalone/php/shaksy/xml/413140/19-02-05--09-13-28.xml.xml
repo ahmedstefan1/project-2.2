@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<weatherdata>
+  <measurment>
+    <stn>413140</stn>
+    <Date>2019-01-30</Date>
+    <time>12:09:15</time>
+    <temp>-4.1</temp>
+    <wdsp>14.5</wdsp>
+    <prcp>0.00</prcp>
+    <frshtt>100000</frshtt>
+    <wnddir>326</wnddir>
+  </measurment>
+  1
+</weatherdata>
